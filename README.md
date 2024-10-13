@@ -4,13 +4,13 @@ Reactfolio is a modern and customizable personal portfolio web template built us
 
 
 
-## 📙 Features
+##  Features
 
--   📖 Multi-Page Layout
+-    Multi-Page Layout
     -   Home
     -   About
     -   Projects
     -   Articles
     -   Contact
--   📱 Fully Responsive
--   🛠 Easy configurations
+-    Fully Responsive
+-    Easy configurations
